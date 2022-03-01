@@ -1,7 +1,3 @@
---Ryan Zmuda
---DATA 102
---Assignment 7
-
 USE MyGuitarShop
 
 --1.	Write a SELECT statement that returns the same result set as this SELECT statement, but don’t use a join. Instead, use a subquery in a WHERE clause that uses the --IN keyword.
