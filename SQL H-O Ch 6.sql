@@ -1,4 +1,3 @@
-
 --Q1
 CREATE SEQUENCE customers_customer#_seq
     INCREMENT BY 1
