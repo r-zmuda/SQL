@@ -1,6 +1,3 @@
---SQL Hands-On Chapter 5
---Ryan Zmuda
-
 --Q1
 INSERT INTO orders (order#, customer#, orderdate)
 	VALUES (1021,1009,TO_DATE('20-JUL-09','DD-MON-YY'));
