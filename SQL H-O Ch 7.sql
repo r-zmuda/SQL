@@ -1,6 +1,3 @@
---SQL Chapter 7 Hands-On
---Ryan Zmuda
-
 --Q1
 CREATE USER rzmuda
 IDENTIFIED BY asdf;
