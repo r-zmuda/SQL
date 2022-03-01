@@ -1,4 +1,3 @@
-
 CREATE TRIGGER Products_UPDATE
 	ON Products
 	AFTER UPDATE
@@ -46,4 +45,4 @@ AS
 		DateUpdated = @old_date
 	WHERE AuditID = @old_productid
 
---DROP TRIGGER Products_UPDATE
+DROP TRIGGER Products_UPDATE
