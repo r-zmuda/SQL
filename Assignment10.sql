@@ -1,7 +1,3 @@
---Ryan Zmuda
---DATA 102
---Assignment 10
-
 USE Northwind
 
 --1. High-value customers
