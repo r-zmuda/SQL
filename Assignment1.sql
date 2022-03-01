@@ -1,7 +1,3 @@
---Ryan Zmuda
---DATA 102
---Assignment 1
-
 --1. Which shippers do we have?
 SELECT *
 FROM [dbo].[Shippers]
