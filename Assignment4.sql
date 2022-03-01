@@ -1,7 +1,3 @@
---Ryan Zmuda
---DATA 102
---Assignment 4
-
 USE MyGuitarShop
 
 --1.	Write a SELECT statement that joins the Categories table to the Products table and returns these columns: CategoryName, ProductName, ListPrice.
