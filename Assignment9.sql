@@ -1,7 +1,3 @@
---Ryan Zmuda
---DATA 102
---Assignment 9
-
 USE MyGuitarShop
 
 --1.	Write a SELECT statement that returns these columns from the Products table:
