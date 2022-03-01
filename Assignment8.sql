@@ -1,7 +1,3 @@
---Ryan Zmuda
---DATA 102
---Assignment 8
-
 USE MyGuitarShop
 
 --1. Write an INSERT statement that adds this row to the Categories table:
