@@ -1,7 +1,3 @@
---Ryan Zmuda
---DATA 102
---Assignment 3
-
 USE AP
 
 --1. Write a SELECT statement that returns all columns from the
