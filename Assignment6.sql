@@ -1,7 +1,3 @@
---Ryan Zmuda
---DATA 102
---Assignment 6
-
 --SQL Ch 5 Guitar Shop Assignment
 USE MyGuitarShop
 
