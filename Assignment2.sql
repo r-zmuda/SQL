@@ -1,7 +1,3 @@
---Ryan Zmuda
---DATA 102
---Assignment 2
-
 --1. Employees full name
 SELECT FirstName, LastName, FullName = concat(FirstName, ' ', LastName)
 FROM Employees
