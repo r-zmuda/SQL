@@ -1,6 +1,3 @@
---SQL Hands-On Chapter 12
---Ryan Zmuda
-
 --Q1: List the book title and retail price for all books with a retail price lower than the average retail price of all books sold by JustLee Books.
 SELECT title "Titles < Average Retail", TO_CHAR(retail,'$999.99') "Retail"
 FROM books
