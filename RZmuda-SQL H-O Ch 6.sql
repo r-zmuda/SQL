@@ -1,6 +1,3 @@
---SQL Chapter 6 Hands-On
---Ryan Zmuda
-
 --Q1
 CREATE SEQUENCE customers_customer#_seq
     INCREMENT BY 1
