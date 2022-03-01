@@ -1,6 +1,3 @@
---Chapter 10 Hands-On
---Ryan Zmuda
-
 --Question 1
 SELECT INITCAP(lastname) || ', ' || INITCAP(firstname) "Customer Names"
 FROM customers
