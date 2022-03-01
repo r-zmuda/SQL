@@ -1,6 +1,3 @@
---SQL Hands-On Chapter 4
---Ryan Zmuda
-
 --Q1
 CREATE TABLE store_reps (
     rep_id NUMBER(5),
