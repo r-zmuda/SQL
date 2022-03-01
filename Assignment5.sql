@@ -1,7 +1,3 @@
---Ryan Zmuda
---DATA 102
---Assignment 5
-
 USE Northwind
 
 --1. Categories, and the total products in each category
