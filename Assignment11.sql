@@ -1,7 +1,3 @@
---Ryan Zmuda
---DATA 102
---Assignment 11
-
 USE MyGuitarShop
 
 --Chapter 13 - How to work with views
