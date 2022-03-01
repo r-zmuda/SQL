@@ -1,6 +1,3 @@
---Chapter 9 Hands-On
---Ryan Zmuda
-
 --Question 1 (WHERE method)
 SELECT b.title, p.contact, p.phone
 FROM publisher p, books b
