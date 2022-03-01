@@ -1,3 +1,4 @@
+
 --1. Which shippers do we have?
 SELECT *
 FROM [dbo].[Shippers]
