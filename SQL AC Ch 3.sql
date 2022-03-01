@@ -1,6 +1,3 @@
-//SQL Advanced Challenge Chapter 3
-//Ryan Zmuda
-
 ALTER TABLE acctmanager ADD (
 comm_id NUMBER(2) DEFAULT 10,
 ben_id NUMBER(2)
