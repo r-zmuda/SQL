@@ -1,6 +1,3 @@
---SQL Chapter 8 Hands-On
---Ryan Zmuda
-
 --Q1
 SELECT lastname, firstname, state
 FROM customers
