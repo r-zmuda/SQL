@@ -1,6 +1,3 @@
---SQL Hands-On Chapter 11
---Ryan Zmuda
-
 --Question 1
 SELECT COUNT(*) "# of Cooking Books"
 FROM books
